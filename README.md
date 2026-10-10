@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/HankaBeri">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Hana" alt="Hello! I&#39;m Hana" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4010A8&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Hana" alt="Hello! I&#39;m Hana" />
   </a>
 </p>
 
