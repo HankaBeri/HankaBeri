@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/HankaBeri">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4010A8&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Hana" alt="Hello! I&#39;m Hana" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7F48B1&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Hana" alt="Hello! I&#39;m Hana" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Computer Science student
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=HankaBeri&bg_color=00000000&color=4010A8&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=HankaBeri&bg_color=00000000&color=7F48B1&line=7F48B1&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
