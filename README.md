@@ -8,7 +8,7 @@
 
 Computer Science student
 
-🔭 &nbsp;I'm currently working on **Academic Projects in C# Graphics and SQL Databases**
+💻 &nbsp;I'm currently working on **Academic Projects in C# Graphics and SQL Databases**
 
 ### 🛠️ Tech Stack
 
