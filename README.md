@@ -24,11 +24,6 @@ Computer Science student
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="www.linkedin.com/in/hana-beránková-3baa08230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 ### 📈 Contribution Graph
 
