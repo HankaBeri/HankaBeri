@@ -8,7 +8,7 @@
 
 Computer Science student
 
-💻 &nbsp;I'm currently working on **Academic Projects in C# Graphics and SQL Databases**
+💻 &nbsp;I'm currently working on **Academic Projects in C# Graphics, SQL Databases, and a project in C**
 
 ### 🛠️ Tech Stack
 
@@ -22,6 +22,7 @@ Computer Science student
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
 
